@@ -2,7 +2,8 @@
 一种策略梯度算法 
 learning
 PPO P8 https://www.bilibili.com/video/BV18H4y167SD?p=9&spm_id_from=pageDriver&vd_source=cf16088b7296d0c8d01e3b00cbd71a9e
-首先：基本的：环境、智能体、状态、动作
+首先：
+  强化学习的基本要素：环境、智能体、当前环境或智能体的状态、动作等
 
 ![1f87d3da8e477ff5defec28332f3c23](https://github.com/oliii20/PPO/assets/101909874/662a7bf9-945d-4f98-ab05-018cc2b15ae2)
 ![98ba9660d0f059edb533aa016a8d73a](https://github.com/oliii20/PPO/assets/101909874/02981f3e-a1a0-422d-92a6-f8af90f0f635)
